@@ -20,7 +20,7 @@ class Database {
     private const HOST     = 'localhost';
     private const DBNAME   = 'spa_capilar';
     private const USER     = 'root';
-    private const PASSWORD = 'Peteleco123';          // padrão XAMPP sem senha
+    private const PASSWORD = '';          // padrão XAMPP sem senha
     private const CHARSET  = 'utf8mb4';
 
     // ================================================
